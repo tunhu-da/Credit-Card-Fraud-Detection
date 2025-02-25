@@ -2,7 +2,7 @@
 
 ## Dataset
 - Source: [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data](#)
-- Features: Transaction details, amount, time, etc.
+- Features: Transactions made by credit cards in September 2013 by European cardholders, flags if Fraud, Fraud, etc.
 - Target: Binary classification (fraudulent or non-fraudulent transactions)
 
 ## Approach
