@@ -8,13 +8,10 @@
 ## Approach
 1. **Data Preprocessing:**
    - Checked for missing values and performed necessary cleaning.
-   - Explored class imbalance in the dataset.
+   - Explored class imbalance in the dataset and applied Random Oversampling to balance the dataset.
 2. **Model Selection & Evaluation:**
    - Implemented Logistic Regression, Decision Tree, and Random Forest classifiers.
    - Initially, models returned high accuracy (0.99) but performed poorly on other metrics.
-3. **Handling Class Imbalance:**
-   - Applied Random Oversampling to balance the dataset.
-   - Improved precision, recall, and F1-score.
-4. **Final Model Evaluation:**
+3. **Final Model Evaluation:**
    - Re-evaluated models on the balanced dataset.
    - Achieved better overall performance across all metrics.
