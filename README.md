@@ -1,4 +1,4 @@
-# Fraud Detection on Kaggle Dataset
+# Fraud Detection on Credit Card Transactions 
 
 ## Dataset
 - Source: [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data](#)
